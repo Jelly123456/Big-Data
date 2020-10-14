@@ -1,3 +1,5 @@
 https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark-in-2019-a553e6ccfe30
 
 https://www.udemy.com/course/hadoopstarterkit/learn/lecture/2995888#overview
+
+https://solutionsreview.com/business-intelligence/the-best-apache-spark-courses-and-online-training/
