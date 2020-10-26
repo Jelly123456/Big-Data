@@ -3,3 +3,5 @@ https://medium.com/swlh/5-free-online-courses-to-learn-big-data-hadoop-and-spark
 https://www.udemy.com/course/hadoopstarterkit/learn/lecture/2995888#overview
 
 https://solutionsreview.com/business-intelligence/the-best-apache-spark-courses-and-online-training/
+
+Mapreduce is a programming model for distributed computing.It is a programming model which you can use to process huge datasets in a distributed fashion.
