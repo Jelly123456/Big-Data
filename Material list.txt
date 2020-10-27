@@ -4,4 +4,6 @@ https://www.udemy.com/course/hadoopstarterkit/learn/lecture/2995888#overview
 
 https://solutionsreview.com/business-intelligence/the-best-apache-spark-courses-and-online-training/
 
-Mapreduce is a programming model for distributed computing.It is a programming model which you can use to process huge datasets in a distributed fashion.
+MapReduce is a programming model for distributed computing.It is a programming model which you can use to process huge datasets in a distributed fashion. If you want to use Map and Reducer in Hadoop, you need to learn some programming languages to process data, for example Java, Python and Scala.
+
+Apache Pig is developed by Yahoo. It is designed to make matters accessible to anyone who want to work with Hadoop cluster. Pig is heavily used in the industry and it is the top skill need to grasp if want to get a job in Hadoop industry. It is very similar to SQL.
