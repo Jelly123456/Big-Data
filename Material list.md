@@ -24,5 +24,7 @@ https://www.gangboard.com/blog/pyspark-vs-spark#:~:text=Spark%20makes%20use%20of
 Things to learn:
 1. Apache spark
 https://sparkbyexamples.com/
-2. Apache Kafka: this is designed for real-time data processing
+2. spark with python(pyspark)
+https://sparkbyexamples.com/pyspark-tutorial/
+3. Apache Kafka: this is designed for real-time data processing
 
