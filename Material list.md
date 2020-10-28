@@ -20,3 +20,9 @@ Hadoop:
   
 Spark:
 https://www.gangboard.com/blog/pyspark-vs-spark#:~:text=Spark%20makes%20use%20of%20real,Python%20while%20working%20in%20Spark.
+
+Things to learn:
+1. Apache spark
+https://sparkbyexamples.com/
+2. Apache Kafka: this is designed for real-time data processing
+
