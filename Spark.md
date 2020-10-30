@@ -7,3 +7,5 @@ when I want to use sbt, scala, spark with Intellij, I faced "download" error, ma
 Problem 1:
 ![alt text](https://github.com/Jelly123456/Big-Data/blob/master/Pictures/3.JPG "Problem 1")
 
+So now I switch to learn pyspark.
+
